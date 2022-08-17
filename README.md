@@ -32,3 +32,5 @@ This should produce a `drive_files_analyzed.csv` file that we can then use in th
 Use this observable notebook to visualize the data
 
 https://observablehq.com/@devinbayly/drive-data-parser
+
+file:///home/dash/Downloads/graph.png![image](https://user-images.githubusercontent.com/11687631/185007756-bfae0c3e-08cd-4a9f-ba20-8c59c3efe16a.png)
