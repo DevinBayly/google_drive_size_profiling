@@ -10,7 +10,7 @@ First get a json showing the folders in the root
 rclone lsjson --dirs-only baylyd:/ > root_folders.json
 ```
 
-then we can use the python script which will iterate over the elements in that returned json to create individual jsons of the folder contents
+Then we can use the python script which will iterate over the elements in that returned json to create individual jsons of the folder contents
 
 ```
 python3 rclone_folder_summaries.py
