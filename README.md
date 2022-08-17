@@ -2,7 +2,7 @@
 
 Rclone gives us a way to export sizes of folders as json which gives us a nice way to use python scripts to get total sizes
 
-Note that the occurences of baylyd should be replaced with whatever your remote configured name is.
+Note that the occurence of baylyd should be replaced with whatever your remote configured name is.
 
 First get a json showing the folders in the root
 
